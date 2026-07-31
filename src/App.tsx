@@ -99,7 +99,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="w-full bg-slate-950 border-t border-slate-800 py-4 text-center font-mono text-xs text-slate-500">
-        Data Packet Journey Visualizer &copy; {new Date().getFullYear()} &bull; Interactive Cyber Network Protocol Simulator
+        Data Packet Journey Visualizer &copy; {new Date().getFullYear()} &bull; Interactive Cyber Network Protocol Simulator By @tripathy05
       </footer>
 
       {/* Modals & Drawers */}
