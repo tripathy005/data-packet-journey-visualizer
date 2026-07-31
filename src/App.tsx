@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, ReactNode } from 'react';
 import { useSimulationEngine } from './simulation/useSimulationEngine';
 import { Navbar } from './components/Navbar';
 import { PacketStats } from './components/PacketStats';
