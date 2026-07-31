@@ -1,0 +1,6 @@
+{
+  "name": "Data Packet Journey Visualizer",
+  "description": "An interactive, futuristic network simulation demonstrating packet routing, latency, packet loss, retransmission, and reassembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
